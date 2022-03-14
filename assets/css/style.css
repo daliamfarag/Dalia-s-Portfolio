@@ -307,6 +307,14 @@ main {
   background-size: cover;
 }
 
+.lord-of-the-rinks {
+  background-image: url("../images/lord-of-the-rinks-pic.png");
+  height: max-content;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 /* end portfolio project images */
 
 @media screen and (max-width: 980px) {
